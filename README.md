@@ -13,13 +13,12 @@ I'm a passionate **Software Engineer** with a strong foundation in Python, web d
 - Working on open-source contributions and portfolio projects
 
 ## 💡 Ask me about:
-- Full-stack web development
 - Python scripting and automation
 - Version control with Git & GitHub
 - Capstone projects and career switch advice
 
 ## 📊 GitHub Stats
-![Amukelani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)
+![Amukelani's GitHub Stats](https://github-readme-stats.vercel.app/api?Amukelani-khoza1=Amukelani-khoza1&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=default)
 
 ## 📌 Pinned Projects
