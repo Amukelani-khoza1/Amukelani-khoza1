@@ -17,13 +17,3 @@ I'm a passionate **Software Engineer** with a strong foundation in Python, web d
 - Version control with Git & GitHub
 - Capstone projects and career switch advice
 
-## 📊 GitHub Stats
-![Amukelani's GitHub Stats](https://github-readme-stats.vercel.app/api?Amukelani-khoza1=Amukelani-khoza1&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=default)
-
-## 📌 Pinned Projects
-Check out some of my favorite projects below 👇
-- Poll App with user authentication
-- Personal portfolio website (HTML/CSS/JS)
-- Django Capstone Project
-- SQL Database Exploration Project
